@@ -1,0 +1,15 @@
+{
+    "count": 1,
+    "queries": [
+        {
+            "links": [
+                "https://www.google.com/maps/place/Smith+%26+Smith+%26+Ruiz+CPAs+-+Arlington+TX/data=!4m7!3m6!1s0x864e62e91322abbb:0xf9c1d92ffba499e4!8m2!3d32.6707936!4d-97.1216564!16s%2Fg%2F1tmcmn3f!19sChIJu6siE-liToYR5Jmk-y_Zwfk?authuser=0&hl=en&rclk=1"
+            ],
+            "query": {
+                "keyword": "accountants in Texas",
+                "max_results": 1,
+                "has_website": true
+            }
+        }
+    ]
+}

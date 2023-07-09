@@ -1,0 +1,8 @@
+requests
+bose
+pydash
+colorama
+csv
+requests
+validate_email_address
+queue
